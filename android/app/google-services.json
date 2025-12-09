@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761255731598",
+    "project_id": "ventaselectromax-5166e",
+    "storage_bucket": "ventaselectromax-5166e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761255731598:android:e0108aa6d8b474134004df",
+        "android_client_info": {
+          "package_name": "com.aservit.appelectromax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXr0kiVnnVCWTV37waTQ7odiT8aVzpcak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761255731598:android:1e289f8f12deecba4004df",
+        "android_client_info": {
+          "package_name": "com.example.ventas_aservit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXr0kiVnnVCWTV37waTQ7odiT8aVzpcak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
